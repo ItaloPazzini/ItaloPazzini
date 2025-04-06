@@ -1,3 +1,4 @@
+brasil🇧🇷
 Data Analyst | Machine Learning Enthusiast | Python Expert
 
 Sou um Analista de Dados com foco em solucionar problemas complexos por meio da análise e visualização de dados. Meu objetivo é transformar grandes volumes de dados em informações estratégicas para facilitar a tomada de decisão.
