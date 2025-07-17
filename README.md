@@ -1,17 +1,48 @@
-🇧🇷
-Data Analyst | Machine Learning Enthusiast | Python Expert
+<h1 align="left">Hi, i'm Italo Pazzini</h1>
 
-Sou um Analista de Dados com foco em solucionar problemas complexos por meio da análise e visualização de dados. Meu objetivo é transformar grandes volumes de dados em informações estratégicas para facilitar a tomada de decisão.
+###
 
-Tenho experiência sólida em Python, especialmente em bibliotecas como pandas, NumPy, e ferramentas de Machine Learning, como o scikit-learn. Além disso, sou apaixonado por aprendizado contínuo e sempre busco aprimorar minhas habilidades em SQL e análise de dados.
+<p align="left">Analista de dados Sênior, com foco em Data Science, expertise em Machine Learning, Python, SQL, Statistical, Power Bi, Tableau, <br><br>Mas as ferramentas são apenas o meio e não o fim para a resolução dos problemas, tenho forte senso analitico e bagagem estatistica</p>
 
-Atualmente, me concentro em construir soluções de análise que ajudem a otimizar o capital de giro e prever tendências de mercado para apoiar a saúde financeira das empresas.
+###
 
-🇺🇸
-Data Analyst | Machine Learning Enthusiast | Python Expert
+<h2 align="left">About me</h2>
 
-I am a Data Analyst focused on solving complex problems through data analysis and visualization. My goal is to transform large volumes of data into strategic information to facilitate decision-making.
+###
 
-I have solid experience in Python, especially in libraries such as pandas, NumPy, and Machine Learning tools such as scikit-learn. In addition, I am passionate about continuous learning and always seek to improve my skills in SQL and data analysis.
+<h5 align="left">🏆 Criando soluções de alta performance orientadas a dados<br>💻Formado em Gestão Financeira.<br>🎓Pós graduando em Data Science.<br>👨🏻‍💻 Amo a area de dados, porém sou entusiasta de tudo que envolva tecnologia.</h5>
 
-Currently, I focus on building analytics solutions that help optimize working capital and predict market trends to support the financial health of companies.
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItaloPazzini/ItaloPazzini/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItaloPazzini/ItaloPazzini/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItaloPazzini/ItaloPazzini/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItaloPazzini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloPazzini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
